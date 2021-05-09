@@ -1,0 +1,18 @@
+Team 15 student contract
+Russet
+
+Connor Mahern, Tony Dattolo, Nolan Cauley
+
+List of files submitted for Assignment 3:
+ForagerController.java
+ForagerInterface.java
+ForagerModel.java
+ForagerView.java
+Pair.java
+permit
+
+Submitted on:
+05/02/2021 23:29 pm
+
+We have read and accept the IU Code of Student Rights, Responsibilities, & Conduct.
+We agree to Uphold and maintain academic and professional honesty and integrity.
