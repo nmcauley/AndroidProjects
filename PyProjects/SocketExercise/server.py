@@ -29,6 +29,9 @@ def handle_client(conn, addr):
                 connected = False
 
             print(f"[{addr}] {msg}")
+            # send confirmation
+            conn.send("Msg received".encode(FORMAT) if msg != DISCONNECT_MSG
+                      else "Thanks for chatting!".encode(FORMAT))
 
     conn.close()
 
