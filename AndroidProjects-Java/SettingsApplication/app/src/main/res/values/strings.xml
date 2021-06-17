@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SettingsApplication</string>
+
+    <string-array name="categoryArray">
+        <item>Battery</item>
+        <item>Storage</item>
+        <item>Software Update</item>
+        <item>Volume</item>
+    </string-array>
+</resources>
